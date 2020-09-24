@@ -16,9 +16,8 @@ require (
 	github.com/hashicorp/go-hclog v0.14.1 // indirect
 	github.com/hashicorp/go-multierror v1.1.0 // indirect
 	github.com/hashicorp/go-uuid v1.0.2 // indirect
-	github.com/hashicorp/go-version v1.2.1 // indirect
 	github.com/hashicorp/hcl/v2 v2.6.0 // indirect
-	github.com/hashicorp/terraform-plugin-sdk/v2 v2.0.1
+	github.com/hashicorp/terraform-plugin-sdk/v2 v2.0.3
 	github.com/hashicorp/yamux v0.0.0-20200609203250-aecfd211c9ce // indirect
 	github.com/iancoleman/strcase v0.1.2 // indirect
 	github.com/lyft/protoc-gen-star v0.5.2 // indirect
@@ -34,7 +33,6 @@ require (
 	golang.org/x/net v0.0.0-20200822124328-c89045814202 // indirect
 	golang.org/x/sys v0.0.0-20200831180312-196b9ba8737a // indirect
 	google.golang.org/genproto v0.0.0-20200903010400-9bfcb5116336 // indirect
-	gopkg.in/check.v1 v1.0.0-20190902080502-41f04d3bba15 // indirect
 	gopkg.in/jeevatkm/go-model.v1 v1.1.0
 	gopkg.in/yaml.v1 v1.0.0-20140924161607-9f9df34309c0 // indirect
 	gopkg.in/yaml.v2 v2.2.8 // indirect
