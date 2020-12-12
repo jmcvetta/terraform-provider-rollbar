@@ -1,5 +1,11 @@
 # Terraform provider for Rollbar
 
+## Official Rollbar Terraform Provider
+
+Please use the official Rollbar provider,
+[`rollbar/terraform-provider-rollbar`](https://github.com/rollbar/terraform-provider-rollbar).
+
+
 ## License
 
 This is proprietary software.  **NO LICENSE WHATSOEVER is granted to this
